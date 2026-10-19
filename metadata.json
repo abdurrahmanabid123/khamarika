@@ -1,0 +1,6 @@
+{
+  "name": "খামারিকা (Khamarika)",
+  "description": "খামারিকা — Smart Cattle Care, Veterinary Medicine Directory & Farm Management App for Bangladesh",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
